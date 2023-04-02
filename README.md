@@ -39,7 +39,8 @@
 ## Custom models:
 
 - Knife -> Karambit
-- L96A1 -> MW2's Intervention
+- Scavenger -> MW2's Intervention
+- L96A1 (except CotD) -> MW2's Intervention
 - VR-11 -> Sliquifire
 - Bouncing Bettys -> Claymores
 - Richtophen -> Misty
