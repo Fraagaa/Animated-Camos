@@ -1,0 +1,9 @@
+VERSION             "1"
+CONFIG              "C:\projects\cod\t5\bin\StringEd.cfg"
+FILENOTES           ""
+
+
+REFERENCE       GAME_OVER
+LANG_ENGLISH    "^3Animated camos by ^5BoneCrusher ^6https://discord.gg/UWkTzrgd8D"
+
+ENDMARKER
