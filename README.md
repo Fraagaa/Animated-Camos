@@ -4,10 +4,6 @@
 
 [Download](https://drive.google.com/file/d/1_9d2jydiR6XqihxOnK1ar3Y0IMJ9X2Ap/view?usp=drive_link)
 
-## Made by BoneCrusher
-
-[Discord](https://discord.gg/QPzeje6g) - [YouTube](https://www.youtube.com/channel/UCLspKNozGvrYlb6RCQs6apg) - [Twitch](https://www.twitch.tv/bonecrusher_easy) - [Twitter](https://twitter.com/llBoneCrusherll)
-
 ## Custom weapons
 
 - Karambit
@@ -71,3 +67,7 @@
 - **_TC_** - For making some animated camos
 - **_Badger_** - For making the animated betty
 - **_Clippy95_** - For adding misty model
+
+## Made by BoneCrusher
+
+[Discord](https://discord.gg/QPzeje6g) - [YouTube](https://www.youtube.com/channel/UCLspKNozGvrYlb6RCQs6apg) - [Twitch](https://www.twitch.tv/bonecrusher_easy) - [Twitter](https://twitter.com/llBoneCrusherll)
