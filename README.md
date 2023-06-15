@@ -4,6 +4,14 @@
 
 [Download](https://drive.google.com/file/d/1_9d2jydiR6XqihxOnK1ar3Y0IMJ9X2Ap/view?usp=drive_link)
 
+## How to install
+
+- Download the files
+- Drop the **iw_animatedcamos.iwd** on your **main** folder
+(C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main)
+- Drop the rest of the files in your **zone** folder
+(C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\zone\Common)
+
 ## Custom weapons
 
 - Karambit
