@@ -124,3 +124,6 @@ fx,misc/fx_trail_raygun_ug_ring_emit
 fx,weapon/muzzleflashes/fx_raygun_ug_view
 fx,weapon/muzzleflashes/fx_raygun_ug_world
 fx,weapon/muzzleflashes/fx_raygun_view
+fx,weapon/thunder_gun/fx_thundergun_power_cell_view1
+fx,weapon/thunder_gun/fx_thundergun_power_cell_view2
+fx,weapon/thunder_gun/fx_thundergun_power_cell_view3

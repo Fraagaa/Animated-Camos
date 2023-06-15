@@ -60,6 +60,7 @@
 - Misty
 - Custom fx
 - Earth gif
+- Removed Tgun lights color overlay
 
 
 ## Shout out to:
