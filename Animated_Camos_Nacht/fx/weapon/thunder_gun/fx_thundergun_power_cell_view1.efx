@@ -548,8 +548,8 @@ iwfx 3
 	colorGraph 1
 	{
 		{
-			0 1 1 1
-			1 1 1 1
+			0 0.945098 0.376471 0.027451
+			1 0.945098 0.376471 0.027451
 		}
 		{
 			0 1 1 1
@@ -595,7 +595,6 @@ iwfx 3
 	billboardPivot 0 0;
 	billboardSprite
 	{
-		"gfx_fxt_light_flare_halogen_vm"
 	};
 }
 {
@@ -747,8 +746,8 @@ iwfx 3
 	colorGraph 1
 	{
 		{
-			0 1 1 1
-			1 1 1 1
+			0 0.945098 0.376471 0.027451
+			1 0.945098 0.376471 0.027451
 		}
 		{
 			0 1 1 1
@@ -793,6 +792,5 @@ iwfx 3
 	billboardPivot 0 0;
 	billboardSprite
 	{
-		"gfx_fxt_light_flare_halogen_vm"
 	};
 }
