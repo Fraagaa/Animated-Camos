@@ -141,3 +141,7 @@ fx,weapon/muzzleflashes/fx_raygun_view
 fx,weapon/thunder_gun/fx_thundergun_power_cell_view1
 fx,weapon/thunder_gun/fx_thundergun_power_cell_view2
 fx,weapon/thunder_gun/fx_thundergun_power_cell_view3
+//DOGS
+fx,misc/fx_zombie_dog_ash_trail
+fx,misc/fx_zombie_dog_eyes
+fx,misc/fx_zombie_dog_fire_trail
