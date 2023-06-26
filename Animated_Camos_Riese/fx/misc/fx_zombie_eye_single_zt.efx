@@ -198,7 +198,6 @@ iwfx 3
 	billboardPivot 0 0;
 	line
 	{
-		"gfx_fxt_light_ray_spread_z3"
 	};
 }
 {
@@ -395,7 +394,6 @@ iwfx 3
 	billboardPivot 0 0;
 	billboardSprite
 	{
-		"gfx_fxt_light_flare2_eo2"
 	};
 }
 {
@@ -592,7 +590,6 @@ iwfx 3
 	billboardPivot 0 0;
 	billboardSprite
 	{
-		"gfx_fxt_light_flare2_eo2"
 	};
 }
 {
@@ -789,6 +786,5 @@ iwfx 3
 	billboardPivot 0 0;
 	line
 	{
-		"gfx_fxt_light_ray_spread_z3"
 	};
 }

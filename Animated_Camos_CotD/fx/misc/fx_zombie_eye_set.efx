@@ -198,7 +198,6 @@ iwfx 3
 	billboardPivot 0 0;
 	model
 	{
-		"char_ger_zombieeye"
 	};
 }
 {
@@ -395,6 +394,5 @@ iwfx 3
 	billboardPivot 0 0;
 	model
 	{
-		"char_ger_zombieeye"
 	};
 }
