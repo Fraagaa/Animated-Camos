@@ -69,6 +69,9 @@
 - Custom fx
 - Earth gif
 - Removed Tgun lights color overlay
+- Removed zombie eye color overlay
+- Fixed Japanese version
+- Fixed Plutonium version
 
 
 ## Shout out to:
