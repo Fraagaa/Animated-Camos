@@ -2,7 +2,7 @@
 
 ## Download
 
-[Download](https://drive.google.com/file/d/1_9d2jydiR6XqihxOnK1ar3Y0IMJ9X2Ap/view?usp=drive_link)
+[Download](https://github.com/Fraagaa/Animated-Camos/releases/download/AnimatedCamosV2.2/AnimatedCamos-BoneCrusher.rar)
 
 ## How to install
 
